@@ -27,4 +27,4 @@ This project has been a part of my intenership with United Network Professionals
 12)Average Performance Rating.
 
 SQL file link:https://drive.google.com/file/d/1ZKSd3sNW-IwX4J1qHp9xo5MIoJlqrFmy/view?usp=drive_link
-PDF link:
+PDF link:https://drive.google.com/file/d/1h0YIyEBgYHtfBixlB5PdzYS0UBSYo4eM/view?usp=drive_link
